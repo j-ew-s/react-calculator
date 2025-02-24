@@ -1,2 +1,2 @@
 # react-calculator
-testing react
+testing react with vite
